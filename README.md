@@ -1,1 +1,1 @@
-# ytshort-compilationGenerator
+# YTS-CG (Youtube Short Compilation Generator)
